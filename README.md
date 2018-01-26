@@ -25,6 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+###Test screenshot
+![test screenshot](/images/test.png)
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
