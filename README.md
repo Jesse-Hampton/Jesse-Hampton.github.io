@@ -45,8 +45,7 @@ Syntax highlighted code block
   The project itself was actually pretty fun and easy once I got used to the interface and a mac in general, there were few hiccups until the mixing stage of the project. The plug-ins, while they looked and acted similar to the actual instruments took some getting used to.
   ![mixer1](/images/mixer1.png)
  
- The mixer was pretty cut and dry after getting used to audio plug-ins, tweak the gains here, increase audio volume there, and boom instant mp3.
- [p1](/audio/p1.mp3)
+ The mixer was pretty cut and dry after getting used to audio plug-ins, tweak the gains here, increase audio volume there, and boom [instant mp3.](/audio/p1.mp3)
  
  Finally a word to the wise, always make sure the cycle button is on screen, you'll need it.
  ![loop](/images/loop.png)
