@@ -12,7 +12,7 @@
   
   ![skyline](/images/skyline.png)
  
- #### Skyline Piano is probably my favorite if i'm honest
+ ### Skyline Piano is probably my favorite if i'm honest
   
   The project itself was actually pretty fun and easy once I got used to the interface and a mac in general, there were few hiccups until the mixing stage of the project. The plug-ins, while they looked and acted similar to the actual instruments took some getting used to.
   ![mixer1](/images/mixer1.png)
